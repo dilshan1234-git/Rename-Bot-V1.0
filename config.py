@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "aa7c2b3be68a7488abdb9de6ce78d311")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6898599695:AAE-rukB-OoPJgxOOOcKKuK_8gv55HiC4ww") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "WebXBots") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "autofiltertest") 
 
 DB_NAME = os.environ.get("DB_NAME","Dilfilter")     
 
